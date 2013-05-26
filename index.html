@@ -89,19 +89,17 @@ h1 {font-size: 20px; line-height: 30px;}
     </div>
     
 	<div class="row">
-		<div class="span3 animated fadeInLeft"><img src="img/wanda.png"/></div>
-		<div class="span9">
-			<iframe src='http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=1%2C0&pwc[size]=fit' width='500px' height='370' class='widget_iframe pull-right' frameborder='0' scrolling='no'></iframe>
-		</div>
+		<div class="span4"></div>
+		<div class="span4 animated fadeInDown"><img src="img/wanda.png"/></div>
+		<div class="span4"></div>
 	</div>
-	<div class="row">
-		<div class="span4 animated fadeInUp">
-			<h4><i class="icon-calendar"></i> Contact for bookings</h4>
-			<a class="button mail" href="mailto:wanda@wandavie.com"><i class="icon-envelope-alt"></i> E-Mail</a>
+	
+	<div class="row animated fadeInUp" style="position:fixed;bottom:20px;">
+		<div class="span4">
+			<a style="display:inline-block;" class="button mail" href="mailto:wanda@wandavie.com">Book me for a gig</a>
 		</div>
-		<div class="span8 animated fadeInRight">
+		<div class="span8">
 			<div class="menu pull-right">
-				<h4><i class="icon-coffee"></i> Connect</h4>
 				<a href="https://www.facebook.com/pages/Wanda-Vie/178962565499748?ref=hl" class="button facebook" onClick="_gaq.push(['_trackEvent', 'Link', 'Click', 'Facebook']);"><i class="icon-facebook"></i> Facebook</a>
 				<a href="http://www.linkedin.com/in/wandavie" class="button linkedin" onClick="_gaq.push(['_trackEvent', 'Link', 'Click', 'LinkedIn']);"><i class="icon-linkedin"></i> LinkedIn</a>
 				<a href="https://plus.google.com/112798623377959973460/about" class="button google" onClick="_gaq.push(['_trackEvent', 'Link', 'Click', 'Google']);"><i class="icon-google-plus"></i> Google+</a>
@@ -115,6 +113,19 @@ h1 {font-size: 20px; line-height: 30px;}
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.3.min.js"><\/script>')</script>
+
+<script type="text/javascript" src="http://stratus.sc/stratus.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $.stratus({
+	  auto_play: true,
+	  random: true,
+      links: 'https://soundcloud.com/wandavie',
+      align: 'top',
+      theme: 'http://www.wandavie.com/css/dark.css'
+    });
+  });
+</script>
 
 <script src="js/vendor/bootstrap.min.js"></script>
 
