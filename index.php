@@ -51,15 +51,11 @@
   		  </div>
   		  
   		  <div class="row">
-      		<div class="col-xs-6">
-      			<h5><i class="fa fa-calendar"></i> For Bookings</h5>
-      			<a class="btn btn-danger mail" href="mailto:wanda@wandavie.com"><i class="fa fa-envelope"></i> Email</a>
+      		<div class="col-sm-12">
+      		  <h4><i class="fa fa-music"></i> Music</h4>
+      			<div class="widget_iframe" style="display:inline-block;width:100%;height:320px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
       		</div>
-      		<div class="col-xs-6">
-      		  <h5><i class="fa fa-thumbs-up"></i> Like on FB</h5>
-        		<div class="fb-like" data-href="https://www.facebook.com/pages/Wanda-Vie/178962565499748?ref=hl" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-colorscheme="dark"></div>
-      		</div>
-  		  </div>
+      	</div>
   		  
   		  <div class="row">
   		    <div class="col-sm-12">
@@ -88,15 +84,49 @@
       			</div>
       		</div>
   		  </div>
-  			
   		</div>
   		
   		<div class="col-sm-6 col-md-5 col-lg-4">
-  		  <h4><i class="fa fa-music"></i> Music</h4>
-  			<div class="widget_iframe" style="display:inline-block;width:100%;height:320px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
-  			<br><br>
-  			<h4><i class="fa fa-calendar"></i> Upcoming Performances</h4>
-  			<div class="widget_iframe" style="display:inline-block;width:100%;height:550px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=52&pwc[design]=default&pwc[background_color]=%23333333&pwc[layout]=detailed&pwc[show_map]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
+  		  <div class="row">
+      		<div class="col-sm-12">
+      		  <h4><i class="fa fa-thumbs-up"></i> Like on Facebook</h4>
+        		<div class="fb-like" data-href="https://www.facebook.com/pages/Wanda-Vie/178962565499748?ref=hl" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-colorscheme="dark"></div>
+      		</div>
+      	</div>
+      	<div class="row">
+      		<div class="col-sm-12">
+      			<h4><i class="fa fa-calendar"></i> Upcoming Performances</h4>
+      			<div class="widget_iframe" style="display:inline-block;width:100%;height:550px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=52&pwc[design]=default&pwc[background_color]=%23333333&pwc[layout]=detailed&pwc[show_map]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
+      		</div>
+  			</div>
+      	<div class="row">
+      		<div class="col-sm-12">
+      			<h4><i class="fa fa-calendar"></i> Booking Inquiries</h4>
+						<form action="verify.php" method="POST" role="form">
+              <div class="form-group">				
+          			<label for="naam"><i class="fa fa-user"></i> Name</label>
+          			<input type="text" class="form-control" name="naam" placeholder="Your name" onfocus="this.select();" onmouseup="return false;">
+              </div>
+              <div class="form-group">	
+        			  <label for="email"><i class="fa fa-envelope"></i> Email</label>
+                <input type="email" class="form-control" name="email" placeholder="your@mail.com" onfocus="this.select();" onmouseup="return false;">
+              </div>
+        			<div class="form-group">	
+        			  <label for="bericht"><i class="fa fa-pencil"></i> Message</label>
+                <textarea rows="6" class="form-control" name="bericht" placeholder="Your message..." onfocus="this.select();" onmouseup="return false;"></textarea>
+        			</div>
+        			<div class="form-group">	
+        			  <label for="captcha"><i class="fa fa-lock"></i> Captcha</label>
+                <?php  
+                  require_once('recaptchalib.php');
+                  $publickey = "6Lce5vISAAAAAHl9XouVR_EQYiJAo2QxHO3yMskM";
+                  echo recaptcha_get_html($publickey);
+                ?>
+        			</div>
+        			<button type="submit" class="btn btn-danger" value="Send">Send</button>
+      			</form>
+      		</div>
+  		  </div>
   		</div>
   		
   	</div>
