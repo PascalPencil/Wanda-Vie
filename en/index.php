@@ -45,7 +45,7 @@
 
   <div class="container">
 
-  	<div class="row">
+    <div class="row">
       <div class="col-sm-12">
         <div class="pull-right">
           <a href="/"><img src="img/nl.png"/></a>
@@ -62,35 +62,35 @@
   		  <img src="img/wickedwanda.png"/>
         <br>
         <h4><i class="fa fa-group"></i> There's a wicked new band in town!</h4>
-        <p>Wicked Wanda speelt een energieke mix van rock, blues en funk. Geflankeerd door drie ervaren muzikanten zingt Wanda Vie nummers van Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy en nog veel meer. Van melodieuze rock tot power ballads tot actuele hits, Wicked Wanda speelt het allemaal. Vergeet niet je opstalverzekering te verhogen, want een avond Wicked Wanda betekent dat het dak eraf gaat!</p>
+        <p>Wicked Wanda plays an energetic mix of rock, blues and funk. Backed by three experienced musicians, Wanda Vie sings tracks by Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy and many more. From melodic rock to power ballads to recent hits, Wicked Wanda plays them all. Don't forget to up your venue's insurance policy, because an evening Wicked Wanda means we'll blow it up!</p>
         <br>
-        <h4><i class="fa fa-calendar"></i> Boekings aanvragen</h4>
+        <h4><i class="fa fa-calendar"></i> Booking Inquiries</h4>
         <form action="verify.php" method="POST" role="form">
           <div class="form-group">
-            <label for="naam"><i class="fa fa-user"></i> Naam</label>
-            <input type="text" class="form-control" name="naam" placeholder="Uw naam" onfocus="this.select();" onmouseup="return false;">
+            <label for="naam"><i class="fa fa-user"></i> Name</label>
+            <input type="text" class="form-control" name="naam" placeholder="Your name" onfocus="this.select();" onmouseup="return false;">
           </div>
           <div class="form-group">
             <label for="email"><i class="fa fa-envelope"></i> Email</label>
-            <input type="email" class="form-control" name="email" placeholder="uw@mail.com" onfocus="this.select();" onmouseup="return false;">
+            <input type="email" class="form-control" name="email" placeholder="your@mail.com" onfocus="this.select();" onmouseup="return false;">
           </div>
           <div class="form-group">
-            <label for="bericht"><i class="fa fa-pencil"></i> Bericht</label>
-            <textarea rows="6" class="form-control" name="bericht" placeholder="Uw bericht..." onfocus="this.select();" onmouseup="return false;"></textarea>
+            <label for="bericht"><i class="fa fa-pencil"></i> Message</label>
+            <textarea rows="6" class="form-control" name="bericht" placeholder="Your message..." onfocus="this.select();" onmouseup="return false;"></textarea>
           </div>
-          <button type="submit" class="btn btn-danger" value="Send">Verzend</button>
+          <button type="submit" class="btn btn-danger" value="Send">Send</button>
         </form>
 
   		</div>
 
   		<div class="col-sm-6">
-  		  <h4><i class="fa fa-thumbs-up"></i> Like ons op Facebook</h4>
+  		  <h4><i class="fa fa-thumbs-up"></i> Like us on Facebook</h4>
     		<div class="fb-like" data-href="https://www.facebook.com/pages/Wanda-Vie/178962565499748" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" data-colorscheme="dark"></div>
     		<br><br>
-        <h4><i class="fa fa-music"></i> Muziek</h4>
+        <h4><i class="fa fa-music"></i> Music</h4>
         <div class="widget_iframe" style="display:inline-block;width:100%;height:320px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
         <br><br>
-  			<h4><i class="fa fa-calendar"></i> Aanstaande optredens</h4>
+  			<h4><i class="fa fa-calendar"></i> Upcoming Performances</h4>
   			<div class="widget_iframe" style="display:inline-block;width:100%;height:550px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=52&pwc[design]=default&pwc[background_color]=%23333333&pwc[layout]=detailed&pwc[show_map]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
   		</div>
 
