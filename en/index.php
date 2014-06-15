@@ -6,8 +6,8 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width">
 
-  <title>Wicked Wanda</title>
-  <meta name="description" content="There\'s a wicked new band in town! Wicked Wanda speelt een energieke mix van rock, blues en funk. Geflankeerd door drie ervaren muzikanten zingt Wanda Vie nummers van Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy en nog veel meer. Van melodieuze rock tot power ballads tot actuele hits, Wicked Wanda speelt het allemaal. Vergeet niet je opstalverzekering te verhogen, want een avond Wicked Wanda betekent dat het dak eraf gaat!">
+  <title>Wicked Wanda, a wicked new band in town!</title>
+  <meta name="description" content="Backed by three experienced musicians, Wanda Vie sings tracks by Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy and many more.">
   <meta name="keywords" content="band, coverband, wanda, wanda vie, wicked wanda, zangeres, rockband, boekingen, boeken, optreden, muziek">
   <meta name="robot" content="index,follow">
   <meta name="language" content="dutch, english">
@@ -23,7 +23,7 @@
   <style>
     .row {margin-bottom: 20px;}
     img {max-width: 100%;}
-    body{background: url(/img/bg.jpg) no-repeat center center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;background-color:black;color: #e8e8e8;padding: 60px 0;font-family: "adelle","Helvetica Neue",Helvetica,Arial,sans-serif;}
+    body{background: url(../img/bg.jpg) no-repeat center center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;background-color:black;color: #e8e8e8;padding: 60px 0;font-family: "adelle","Helvetica Neue",Helvetica,Arial,sans-serif;}
     .btn{margin-bottom: 5px;}
     .btn-default {background: transparent;color:white;border-width: 2px;}
     .btn-danger {background: #e7000f}
@@ -48,10 +48,8 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="pull-right">
-          <a href="/"><img src="img/nl.png"/></a>
-          | <a href="/en"><img src="img/en.png"/></a>
-          <!-- | <a href="/fr"><img src="img/fr.png"/></a>
-          | <a href="/de"><img src="img/de.png"/></a> -->
+          <a href="/"><img src="../img/nl.png" alt="Nederlands"/></a>
+          | <a href="/en"><img src="../img/en.png" alt="Engels"/></a>
         </div>
       </div>
     </div>
@@ -59,7 +57,7 @@
     <div class="row">
   		<div class="col-sm-6">
         <h1 style="display:none;">Wicked Wanda</h1>
-  		  <img src="img/wickedwanda.png"/>
+  		  <img src="../img/wickedwanda.png" alt="Wicked Wanda"/>
         <br>
         <h4><i class="fa fa-group"></i> There's a wicked new band in town!</h4>
         <p>Wicked Wanda plays an energetic mix of rock, blues and funk. Backed by three experienced musicians, Wanda Vie sings tracks by Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy and many more. From melodic rock to power ballads to recent hits, Wicked Wanda plays them all. Don't forget to up your venue's insurance policy, because an evening Wicked Wanda means we'll blow it up!</p>

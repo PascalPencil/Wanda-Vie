@@ -6,8 +6,8 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width">
 
-  <title>Wicked Wanda</title>
-  <meta name="description" content="There\'s a wicked new band in town! Wicked Wanda speelt een energieke mix van rock, blues en funk. Geflankeerd door drie ervaren muzikanten zingt Wanda Vie nummers van Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy en nog veel meer. Van melodieuze rock tot power ballads tot actuele hits, Wicked Wanda speelt het allemaal. Vergeet niet je opstalverzekering te verhogen, want een avond Wicked Wanda betekent dat het dak eraf gaat!">
+  <title>Wicked Wanda, a wicked new band in town!</title>
+  <meta name="description" content="Geflankeerd door drie ervaren muzikanten zingt Wanda Vie nummers van Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy en nog veel meer.">
   <meta name="keywords" content="band, coverband, wanda, wanda vie, wicked wanda, zangeres, rockband, boekingen, boeken, optreden, muziek">
   <meta name="robot" content="index,follow">
   <meta name="language" content="dutch, english">
@@ -48,10 +48,8 @@
   	<div class="row">
       <div class="col-sm-12">
         <div class="pull-right">
-          <a href="/"><img src="img/nl.png"/></a>
-          | <a href="/en"><img src="img/en.png"/></a>
-          <!-- | <a href="/fr"><img src="img/fr.png"/></a>
-          | <a href="/de"><img src="img/de.png"/></a> -->
+          <a href="/"><img src="img/nl.png" alt="Nederlands"/></a>
+          | <a href="/en"><img src="img/en.png" alt="English"/></a>
         </div>
       </div>
     </div>
@@ -59,7 +57,7 @@
     <div class="row">
   		<div class="col-sm-6">
         <h1 style="display:none;">Wicked Wanda</h1>
-  		  <img src="img/wickedwanda.png"/>
+  		  <img src="img/wickedwanda.png" alt="Wicked Wanda"/>
         <br>
         <h4><i class="fa fa-group"></i> There's a wicked new band in town!</h4>
         <p>Wicked Wanda speelt een energieke mix van rock, blues en funk. Geflankeerd door drie ervaren muzikanten zingt Wanda Vie nummers van Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy en nog veel meer. Van melodieuze rock tot power ballads tot actuele hits, Wicked Wanda speelt het allemaal. Vergeet niet je opstalverzekering te verhogen, want een avond Wicked Wanda betekent dat het dak eraf gaat!</p>
