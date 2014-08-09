@@ -57,12 +57,18 @@
     <div class="row">
   		<div class="col-sm-6">
         <h1 style="display:none;">Wicked Wanda</h1>
-  		  <img src="../img/wickedwanda.png" alt="Wicked Wanda"/>
+  		  <img src="../img/wanda.png" alt="Wicked Wanda"/>
         <br>
         <h4><i class="fa fa-group"></i> There's a wicked new band in town!</h4>
-        <p>Wicked Wanda plays an energetic mix of rock, blues and funk. Backed by three experienced musicians, Wanda Vie sings tracks by Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy and many more. From melodic rock to power ballads to recent hits, Wicked Wanda plays them all. Don't forget to up your venue's insurance policy, because an evening Wicked Wanda means we'll blow it up!</p>
+        <p>
+          <i>Wicked Wanda</i> plays a very energetic and distinctive mix of rock, blues and funk.<br>
+          Flanked by the skilled musicians Paul, Rob en Peter, Wanda Vie sings <b>original songs</b> as well as covers of Janis Joplin, AC/DC, Anouk, Van Halen, ZZ Top, Sass Jordan, Thin Lizzy and many more.<br>
+          From melodic rock and power ballads to recent hits, <i>Wicked Wanda</i> plays it all.<br>
+          Don't forget to up your venue's insurance policy, because an evening with <i>Wicked Wanda</i> warrants bringing the house down!
+        </p>
         <br>
-        <h4><i class="fa fa-calendar"></i> Booking Inquiries</h4>
+        <h4><i class="fa fa-calendar"></i> Booking & Info</h4>
+        <p>Book us by calling +31 (0) 6 46 60 57 18 or by filling out the form:</p>
         <form action="verify.php" method="POST" role="form">
           <div class="form-group">
             <label for="naam"><i class="fa fa-user"></i> Name</label>
@@ -86,10 +92,7 @@
     		<div class="fb-like" data-href="https://www.facebook.com/pages/Wanda-Vie/178962565499748" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" data-colorscheme="dark"></div>
     		<br><br>
         <h4><i class="fa fa-music"></i> Music</h4>
-        <div class="widget_iframe" style="display:inline-block;width:100%;height:320px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
-        <br><br>
-  			<h4><i class="fa fa-calendar"></i> Upcoming Performances</h4>
-  			<div class="widget_iframe" style="display:inline-block;width:100%;height:550px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=52&pwc[design]=default&pwc[background_color]=%23333333&pwc[layout]=detailed&pwc[show_map]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
+        <div class="widget_iframe" style="display:inline-block;width:100%;height:400px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
   		</div>
 
     </div>

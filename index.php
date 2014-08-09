@@ -57,12 +57,18 @@
     <div class="row">
   		<div class="col-sm-6">
         <h1 style="display:none;">Wicked Wanda</h1>
-  		  <img src="img/wickedwanda.png" alt="Wicked Wanda"/>
+  		  <img src="img/wanda.png" alt="Wicked Wanda"/>
         <br>
         <h4><i class="fa fa-group"></i> There's a wicked new band in town!</h4>
-        <p>Wicked Wanda speelt een energieke mix van rock, blues en funk. Geflankeerd door drie ervaren muzikanten zingt Wanda Vie nummers van Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy en nog veel meer. Van melodieuze rock tot power ballads tot actuele hits, Wicked Wanda speelt het allemaal. Vergeet niet je opstalverzekering te verhogen, want een avond Wicked Wanda betekent dat het dak eraf gaat!</p>
+        <p>
+          <i>Wicked Wanda</i> speelt een zeer energieke en eigenzinnige mix van rock, blues en funk.<br>
+          Geflankeerd door de ervaren muzikanten Paul, Rob en Peter, zingt Wanda Vie <b>eigen nummers</b> & covers van o.a. Janis Joplin, AC/DC, Anouk, Van Halen, ZZ Top, Sass Jordan, Thin Lizzy en nog veel meer.<br>
+          Van melodieuze rock en power ballads tot actuele hits, <i>Wicked Wanda</i> speelt het allemaal.<br>
+          Vergeet niet je opstalverzekering te verhogen, want een avond <i>Wicked Wanda</i> betekent dat het dak eraf gaat!
+        </p>
         <br>
-        <h4><i class="fa fa-calendar"></i> Boekings aanvragen</h4>
+        <h4><i class="fa fa-calendar"></i> Boekingen & Info</h4>
+        <p>Boekingen via de telefoon +31 (0) 6 46 60 57 18 of via het formulier:</p>
         <form action="verify.php" method="POST" role="form">
           <div class="form-group">
             <label for="naam"><i class="fa fa-user"></i> Naam</label>
@@ -86,10 +92,7 @@
     		<div class="fb-like" data-href="https://www.facebook.com/pages/Wanda-Vie/178962565499748" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" data-colorscheme="dark"></div>
     		<br><br>
         <h4><i class="fa fa-music"></i> Muziek</h4>
-        <div class="widget_iframe" style="display:inline-block;width:100%;height:320px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
-        <br><br>
-  			<h4><i class="fa fa-calendar"></i> Aanstaande optredens</h4>
-  			<div class="widget_iframe" style="display:inline-block;width:100%;height:550px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=52&pwc[design]=default&pwc[background_color]=%23333333&pwc[layout]=detailed&pwc[show_map]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
+        <div class="widget_iframe" style="display:inline-block;width:100%;height:400px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
   		</div>
 
     </div>
