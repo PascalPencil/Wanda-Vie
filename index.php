@@ -6,7 +6,7 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width">
 
-  <title>Wicked Wanda, a wicked new band in town!</title>
+  <title>Wanda Vie</title>
   <meta name="description" content="Geflankeerd door drie ervaren muzikanten zingt Wanda Vie nummers van Janis Joplin, AC/DC, Anouk, ZZ Top, Sass Jordan, Thin Lizzy en nog veel meer.">
   <meta name="keywords" content="band, coverband, wanda, wanda vie, wicked wanda, zangeres, rockband, boekingen, boeken, optreden, muziek">
   <meta name="robot" content="index,follow">
@@ -19,6 +19,16 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-35964135-1', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+  </script>
 
   <style>
     .row {margin-bottom: 20px;}
@@ -43,32 +53,29 @@
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));</script>
 
+
   <div class="container">
-
-  	<div class="row">
-      <div class="col-sm-12">
-        <div class="pull-right">
-          <a href="/"><img src="img/nl.png" alt="Nederlands"/></a>
-          | <a href="/en"><img src="img/en.png" alt="English"/></a>
-        </div>
-      </div>
-    </div>
-
     <div class="row">
   		<div class="col-sm-6">
-        <h1 style="display:none;">Wicked Wanda</h1>
-  		  <img src="img/wanda.png" alt="Wicked Wanda"/>
+        <h1 style="display:none;">Wanda View</h1>
+  		  <img src="img/logo.png" alt="Wanda Vie" width="100px"/>
         <br>
-        <h4><i class="fa fa-group"></i> There's a wicked new band in town!</h4>
+        <br>
+        <br>
+        <h4><i class="fa fa-user"></i> About me</h4>
         <p>
-          <i>Wicked Wanda</i> speelt een zeer energieke en eigenzinnige mix van rock, blues en funk.<br>
-          Geflankeerd door de ervaren muzikanten Paul, Rob en Peter, zingt Wanda Vie <b>eigen nummers</b> & covers van o.a. Janis Joplin, AC/DC, Anouk, Van Halen, ZZ Top, Sass Jordan, Thin Lizzy en nog veel meer.<br>
-          Van melodieuze rock en power ballads tot actuele hits, <i>Wicked Wanda</i> speelt het allemaal.<br>
-          Vergeet niet je opstalverzekering te verhogen, want een avond <i>Wicked Wanda</i> betekent dat het dak eraf gaat!
+          Born into a very musical family, father was a jazz pianist and 3 siblings who also play keys and sing.<br>
+          At 13 I started singing in a band and many more bands followed. I sing all kinds of music, but given the chance will always revert back to my favourites; blues and rock. Did some studio work and background singing for some of "the greats" in the music biz.
+        </p>
+        <p>
+          Influences: Janis Joplin, Ronnie James Dio, Jimi Hendrix, Shirley Bassey, Journey, Whitesnake, Rainbow, Melissa Etheridge, Rush, etc.
+        </p>
+        <p>
+          Known for: Music, Singing, Songwriting, Vocalist, Blues, Rock, Pop, Entertainer, gigs, covers, sales, languages, translate, interpret, sense of humour.
         </p>
         <br>
         <h4><i class="fa fa-calendar"></i> Boekingen & Info</h4>
-        <p>Boekingen via de telefoon +31 (0) 6 46 60 57 18 of via het formulier:</p>
+        <p>Boekingen via de telefoon +31(0)630421891 of via het formulier:</p>
         <form action="verify.php" method="POST" role="form">
           <div class="form-group">
             <label for="naam"><i class="fa fa-user"></i> Naam</label>
@@ -88,12 +95,14 @@
   		</div>
 
   		<div class="col-sm-6">
-  		  <h4><i class="fa fa-thumbs-up"></i> Like ons op Facebook</h4>
+  		  <h4><i class="fa fa-thumbs-up"></i> Like op Facebook</h4>
     		<div class="fb-like" data-href="https://www.facebook.com/pages/Wanda-Vie/178962565499748" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" data-colorscheme="dark"></div>
     		<br><br>
         <h4><i class="fa fa-music"></i> Muziek</h4>
         <div class="widget_iframe" style="display:inline-block;width:100%;height:400px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
-  		</div>
+
+        <img src="img/IMG_618922765870088.jpeg" alt="Wanda Vie"/>
+      </div>
 
     </div>
 
@@ -115,11 +124,5 @@
 
   <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
   <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-  <script>
-      var _gaq=[['_setAccount','UA-35964135-1'],['_trackPageview']];
-      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagname(t)[0];
-      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-      s.parentNode.insertBefore(g,s)}(document,'script'));
-  </script>
 </body>
 </html>
