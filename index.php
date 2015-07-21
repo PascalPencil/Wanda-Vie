@@ -56,14 +56,14 @@
 
   <div class="container">
     <div class="row">
-  		<div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
-        <img src="img/wanda.jpg" alt="Wanda Vie"/>
-  		  <br>
+  		<div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3 text-center">
         <img src="img/logo.png" alt="Wanda Vie" width="100px"/>
-        <br>
+        <hr>
+        <img src="img/wanda.jpg" alt="Wanda Vie"/>
+        <hr>
         <h4><i class="fa fa-music"></i> Muziek</h4>
         <div class="widget_iframe" style="display:inline-block;width:100%;height:400px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
-        <br>
+        <hr>
         <h4><i class="fa fa-group"></i> There's a wicked new band in town!</h4>
         <p>
           <i>Wicked Wanda</i> plays a very energetic and distinctive mix of rock, blues and funk.<br>
@@ -71,7 +71,7 @@
           From melodic rock and power ballads to recent hits, <i>Wicked Wanda</i> plays it all.<br>
           Don't forget to up your venue's insurance policy, because an evening with <i>Wicked Wanda</i> warrants bringing the house down!
         </p>
-        <br>
+        <hr>
         <h4><i class="fa fa-calendar"></i> Boekingen & Info</h4>
         <p>Boekingen via de telefoon +31(0)630421891 of via het formulier:</p>
         <form action="verify.php" method="POST" role="form">
@@ -89,18 +89,12 @@
           </div>
           <button type="submit" class="btn btn-danger" value="Send">Verzend</button>
         </form>
-        <br>
+        <hr>
   		  <h4><i class="fa fa-thumbs-up"></i> Like op Facebook</h4>
     		<div class="fb-like" data-href="https://www.facebook.com/pages/Wanda-Vie/178962565499748" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" data-colorscheme="dark"></div>
-        <br>
+        <hr>
         <img src="img/IMG_618922765870088.jpeg" alt="Wanda Vie"/>
-      </div>
-
-    </div>
-
-    <div class="row">
-
-      <div class="col-sm-12">
+        <hr>
         <h5><i class="fa fa-link"></i> Links</h5>
         <a href="https://www.facebook.com/pages/Wanda-Vie/178962565499748?ref=hl" class="btn btn-default facebook" onClick="_gaq.push(['_trackEvent', 'Link', 'Click', 'Facebook']);"><i class="fa fa-facebook"></i> Facebook</a>
         <a href="http://www.linkedin.com/in/wandavie" class="btn btn-default linkedin" onClick="_gaq.push(['_trackEvent', 'Link', 'Click', 'LinkedIn']);"><i class="fa fa-linkedin"></i> LinkedIn</a>
