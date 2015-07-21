@@ -64,12 +64,12 @@
         <h4><i class="fa fa-music"></i> Muziek</h4>
         <div class="widget_iframe" style="display:inline-block;width:100%;height:400px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
         <hr>
-        <h4><i class="fa fa-group"></i> There's a wicked new band in town!</h4>
+        <h4><i class="fa fa-microphone"></i> About Me</h4>
         <p>
-          <i>Wicked Wanda</i> plays a very energetic and distinctive mix of rock, blues and funk.<br>
+          <i>Wanda Vie</i> plays a very energetic and distinctive mix of rock, blues and funk.<br>
           Flanked by professional musicians Wanda Vie sings <b>original songs</b> as well as covers of Janis Joplin, AC/DC, Anouk, Van Halen, ZZ Top, Sass Jordan, Thin Lizzy and many more.<br>
-          From melodic rock and power ballads to recent hits, <i>Wicked Wanda</i> plays it all.<br>
-          Don't forget to up your venue's insurance policy, because an evening with <i>Wicked Wanda</i> warrants bringing the house down!
+          From melodic rock and power ballads to recent hits, <i>Wanda Vie</i> plays it all.<br>
+          Don't forget to up your venue's insurance policy, because an evening with <i>Wanda Vie</i> warrants bringing the house down!
         </p>
         <hr>
         <h4><i class="fa fa-calendar"></i> Boekingen & Info</h4>
