@@ -56,22 +56,20 @@
 
   <div class="container">
     <div class="row">
-  		<div class="col-sm-6">
-        <h1 style="display:none;">Wanda View</h1>
-  		  <img src="img/logo.png" alt="Wanda Vie" width="100px"/>
+  		<div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+        <img src="img/wanda.jpg" alt="Wanda Vie"/>
+  		  <br>
+        <img src="img/logo.png" alt="Wanda Vie" width="100px"/>
         <br>
+        <h4><i class="fa fa-music"></i> Muziek</h4>
+        <div class="widget_iframe" style="display:inline-block;width:100%;height:400px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
         <br>
-        <br>
-        <h4><i class="fa fa-user"></i> About me</h4>
+        <h4><i class="fa fa-group"></i> There's a wicked new band in town!</h4>
         <p>
-          Born into a very musical family, father was a jazz pianist and 3 siblings who also play keys and sing.<br>
-          At 13 I started singing in a band and many more bands followed. I sing all kinds of music, but given the chance will always revert back to my favourites; blues and rock. Did some studio work and background singing for some of "the greats" in the music biz.
-        </p>
-        <p>
-          Influences: Janis Joplin, Ronnie James Dio, Jimi Hendrix, Shirley Bassey, Journey, Whitesnake, Rainbow, Melissa Etheridge, Rush, etc.
-        </p>
-        <p>
-          Known for: Music, Singing, Songwriting, Vocalist, Blues, Rock, Pop, Entertainer, gigs, covers, sales, languages, translate, interpret, sense of humour.
+          <i>Wicked Wanda</i> plays a very energetic and distinctive mix of rock, blues and funk.<br>
+          Flanked by professional musicians Wanda Vie sings <b>original songs</b> as well as covers of Janis Joplin, AC/DC, Anouk, Van Halen, ZZ Top, Sass Jordan, Thin Lizzy and many more.<br>
+          From melodic rock and power ballads to recent hits, <i>Wicked Wanda</i> plays it all.<br>
+          Don't forget to up your venue's insurance policy, because an evening with <i>Wicked Wanda</i> warrants bringing the house down!
         </p>
         <br>
         <h4><i class="fa fa-calendar"></i> Boekingen & Info</h4>
@@ -91,16 +89,10 @@
           </div>
           <button type="submit" class="btn btn-danger" value="Send">Verzend</button>
         </form>
-
-  		</div>
-
-  		<div class="col-sm-6">
+        <br>
   		  <h4><i class="fa fa-thumbs-up"></i> Like op Facebook</h4>
     		<div class="fb-like" data-href="https://www.facebook.com/pages/Wanda-Vie/178962565499748" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" data-colorscheme="dark"></div>
-    		<br><br>
-        <h4><i class="fa fa-music"></i> Muziek</h4>
-        <div class="widget_iframe" style="display:inline-block;width:100%;height:400px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_271164?widget_id=50&pwc[design]=default&pwc[background_color]=%23333333&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
-
+        <br>
         <img src="img/IMG_618922765870088.jpeg" alt="Wanda Vie"/>
       </div>
 
