@@ -57,7 +57,7 @@
   <div class="container">
     <div class="row">
   		<div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3 text-center">
-        <img src="img/logo.png" alt="Wanda Vie" width="100px"/>
+        <img src="img/wickedwanda.png" alt="Wanda Vie"/>
         <hr>
         <img src="img/wanda.jpg" alt="Wanda Vie"/>
         <hr>
